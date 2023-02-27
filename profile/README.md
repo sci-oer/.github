@@ -4,9 +4,9 @@ This resource is part of an investigation into a semi-automated process for crea
 
 More information about this and other SCIOER resources is available:
 
-https://github.com/orgs/sci-oer/
-https://hub.docker.com/u/scioer
-email: info@scioer.ca
+- https://github.com/orgs/sci-oer/
+- https://hub.docker.com/u/scioer
+- email: info@scioer.ca
 
 This project is made possible with funding from the University of Guelph OER support program and the Government of Ontario and through eCampusOntario’s support of the Virtual Learning Strategy. To learn more about the Virtual Learning Strategy visit: https://vls.ecampusontario.ca.
 
